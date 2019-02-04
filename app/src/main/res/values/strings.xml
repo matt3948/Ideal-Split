@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">idealsplit</string>
+
+    <string-array name="age_groups">
+        <item>10 and Under</item>
+        <item>11-12</item>
+        <item>13-14</item>
+        <item>15-16</item>
+        <item>17-18</item>
+        <item>18 and Over</item>
+    </string-array>
+
+    <string-array name="events">
+        <item>200 Freestyle</item>
+        <item>50 Freestyle</item>
+        <item>100 Butterfly</item>
+        <item>100 Freestyle</item>
+        <item>500 Freestyle</item>
+        <item>100 Backstroke</item>
+        <item>100 Breaststroke</item>
+        <item>Relay?</item>
+    </string-array>
+
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
